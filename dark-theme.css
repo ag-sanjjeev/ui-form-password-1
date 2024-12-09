@@ -1,0 +1,15 @@
+:root{
+	--background: #101010;	
+	--dark: #101010;	
+	--light: #f9f9f9;	
+	--white: #ffffff;	
+	--gray: #2d292a;
+	--cardBackground: #2d292a;
+	--toggleSwitchBackground: #ffffff;
+	--toggleSwitchSlider: #101010;
+	--gray-1: #232122;
+	--inputBoxBackground: #232122;
+	--purple: #6827cb;
+	--text: #ffffff;
+	--text-dull: #BDBDBD;
+}
